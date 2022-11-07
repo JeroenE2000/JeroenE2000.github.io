@@ -19,10 +19,10 @@
                 {
                     "question": "What is the capital of Germany?",
                     "answers": [
-                        "Paris",
+                        "Amsterdam",
                         "London",
                         "Berlin",
-                        "Rome"
+                        "Pannekoek"
                     ],
                     "correctAnswer": 2,
                     "timer": 10,
