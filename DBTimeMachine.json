@@ -4,25 +4,25 @@
             "gameID": "1",
             "questions": [
                 {
-                    "question": "What is the capital of France?",
+                    "question": "Hoeveel archiven heeft het erfgoedcentrum van den bosch?",
                     "answers": [
-                        "Paris",
-                        "London",
-                        "Berlin",
-                        "Rome"
+                        "900",
+                        "1000",
+                        "950",
+                        "50"
                     ],
                     "timer": 10,
                     "description": "Paris is the capital of France",
-                    "link": "https://en.wikipedia.org/wiki/Paris",
+                    "link": "https://www.erfgoedshertogenbosch.nl/onderzoek/archiefonderzoek",
                     "correctAnswer": 0
                 },
                 {
-                    "question": "What is the capital of Germany?",
+                    "question": "Hoe heet de Generaal die den bosch bevrijdde in de tweede wereldoorlog?",
                     "answers": [
-                        "Amsterdam",
-                        "London",
-                        "Berlin",
-                        "Pannekoek"
+                        "Hendrik Valk",
+                        "Robert Valk",
+                        "Robert Ross",
+                        "Gerald Ross"
                     ],
                     "correctAnswer": 2,
                     "timer": 10,
@@ -30,12 +30,12 @@
                     "link": "https://en.wikipedia.org/wiki/Berlin"
                 },
                 {
-                    "question": "What is the capital of Italy?",
+                    "question": "Hoeveel objecten heeft het erfgoedcentrum van den bosch?",
                     "answers": [
-                        "Paris",
-                        "London",
-                        "Berlin",
-                        "Rome"
+                        "10",
+                        "12",
+                        "14",
+                        "15"
                     ],
                     "correctAnswer": 3,
                     "timer": 10,
@@ -43,12 +43,12 @@
                     "link": "https://en.wikipedia.org/wiki/Rome"
                 },
                 {
-                    "question": "What is the capital of England?",
+                    "question": "Wanneer start de history van den bosch?",
                     "answers": [
-                        "Paris",
-                        "London",
-                        "Berlin",
-                        "Rome"
+                        "1180",
+                        "1185",
+                        "1182",
+                        "1200"
                     ],
                     "correctAnswer": 1,
                     "timer": 10,
