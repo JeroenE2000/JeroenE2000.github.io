@@ -11,10 +11,10 @@
                         "950",
                         "50"
                     ],
+                    "correctAnswer": 0,
                     "timer": 10,
                     "description": "Paris is the capital of France",
-                    "link": "https://www.erfgoedshertogenbosch.nl/onderzoek/archiefonderzoek",
-                    "correctAnswer": 0
+                    "link": "https://www.erfgoedshertogenbosch.nl/onderzoek/archiefonderzoek"
                 },
                 {
                     "question": "Hoe heet de Generaal die den bosch bevrijdde in de tweede wereldoorlog?",
